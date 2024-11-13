@@ -1,7 +1,7 @@
 # Alpha-Cortex Present:
 
 
-# Alpha Cortex: Phome Monitoring <ALPHA VERSION> #
+# Alpha Cortex: Phome Monitoring <ALPHA VERSION> # <br>
 
 i will trying to complete this project and upload to Playstore ASAP!
 
