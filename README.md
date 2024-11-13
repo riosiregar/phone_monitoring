@@ -11,7 +11,7 @@ ios ?????<br><br>
 # Alpha version Changelog:<br>
 ### v.0.1:<br>
 Raw Structure with feature Dashboard Monitoring;<br>
-Add feature:<br>
+Add Feature:<br>
     - Battery Monitoring,<br>
     - Clearing Cache,<br>
     - Reset Factory,<br>
@@ -19,4 +19,5 @@ Add feature:<br>
     - notify the phone if battery under 30% and enter the Battery Saver Mode,<br>
     - Adding Change Force Background<br><br>
 ### v.0.1.1:<br>
-    - update loading screen<br>
+Update Feature:<br
+    - Loading Screen<br>
