@@ -30,3 +30,12 @@ Update UI/UX:<br>
     - Modify homepage<br>
 Fix Some Feature:<br>
     - Modify Routes Login<br>
+
+
+### v.0.1.5:<br>
+Update UI/UX:<br>
+    - Modify Field login<br>
+    - Add form SignUp
+    - Add form Forgot Password
+Add Some Feature:<br>
+    - Add Notification OTP phone & email (i dont have API for that, i will fix soon)

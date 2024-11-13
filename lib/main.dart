@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:phone_monitoring/forgot.dart';
+import 'package:phone_monitoring/signUp.dart';
 import 'splash_screen.dart';
 import 'home_page.dart';
 import 'login_page.dart';
@@ -19,7 +21,9 @@ class MyApp extends StatelessWidget {
         '/': (context) => SplashScreen(),
         '/home': (context) => HomePage(),
         '/login': (context) => LoginPage(),
-        '/dashboard': (context) => DashboardPage(), // Placeholder
+        '/dashboard': (context) => DashboardPage(),
+        '/forgot': (context) => ForgotPassword(),
+        '/signup': (context) => SignUp() // Placeholder
       },
     );
   }
