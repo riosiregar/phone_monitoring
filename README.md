@@ -17,6 +17,6 @@ Add feature:<br>
     - Reset Factory,<br>
     - Scanning Blurred Photo,<br>
     - notify the phone if battery under 30% and enter the Battery Saver Mode,<br>
-    - Adding Change Force Background<br>
+    - Adding Change Force Background<br><br>
 v.0.1.1:<br>
 update loading screen<br>
