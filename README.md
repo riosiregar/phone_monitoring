@@ -3,7 +3,7 @@ Alpha Cortex: Phome Monitoring <ALPHA VERSION> #
 
 i will trying to complete this project and upload to Playstore ASAP!
 
-Requirement System:<br>
+# Requirement System:<br>
 Android 13+<br>
 ios ?????<br><br>
 
