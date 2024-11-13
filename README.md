@@ -7,9 +7,9 @@ i will trying to complete this project and upload to Playstore ASAP!
 Android 13+<br>
 ios ?????<br><br>
 
-# changelog will be here:<br><br>
-Alpha version Changelog:<br>
-v.0.1:<br>
+## changelog will be here:<br><br>
+# Alpha version Changelog:<br>
+### v.0.1:<br>
 Raw Structure with feature Dashboard Monitoring;<br>
 Add feature:<br>
     - Battery Monitoring,<br>
