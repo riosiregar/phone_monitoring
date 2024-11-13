@@ -20,3 +20,5 @@ Add feature:
     - Scanning Blurred Photo,
     - notify the phone if battery under 30% and enter the Battery Saver Mode,
     - Adding Change Force Background
+v.0.1.1:
+update loading screen

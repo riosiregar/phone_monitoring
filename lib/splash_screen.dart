@@ -10,26 +10,25 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    Timer(Duration(seconds: 3), () {
-      // Navigasi ke HomePage setelah loading selesai
-      Navigator.pushReplacementNamed(context, '/home');
-    });
+    _navigateToHome();
+  }
+
+  Future<void> _navigateToHome() async {
+    await Future.delayed(Duration(seconds: 3)); // Simulasi durasi loading
+    Navigator.of(context).pushReplacementNamed('/home');
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            CircularProgressIndicator(),
-            SizedBox(height: 20),
-            Text(
-              'Loading...',
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-          ],
+      body: Container(
+        color: Colors.black,
+        child: Center(
+          child: Image.asset(
+            'assets/image/logo.png',
+            width: 150,
+            height: 150,
+          ),
         ),
       ),
     );
